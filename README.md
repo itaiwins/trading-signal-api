@@ -203,7 +203,7 @@ Confidence (0.0 to 1.0) is based on:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/trading-signal-api.git
+git clone https://github.com/itaiwins/trading-signal-api.git
 cd trading-signal-api
 
 # Create virtual environment
