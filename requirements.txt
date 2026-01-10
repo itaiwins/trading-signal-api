@@ -1,0 +1,31 @@
+# Web Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.3
+
+# Technical Analysis
+# Note: pandas-ta is optional - we implement indicators from scratch for learning
+# pandas-ta>=0.4.67b0
+
+# HTTP Client
+httpx==0.26.0
+aiohttp==3.9.1
+
+# Caching
+cachetools==5.3.2
+
+# Validation & Settings
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.23.3
+pytest-cov==4.1.0
+
+# Type checking (dev)
+mypy==1.8.0
