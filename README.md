@@ -8,7 +8,7 @@ A production-ready REST API that generates cryptocurrency trading signals based 
 - **Technical Indicators**: RSI, MACD, EMA crossovers calculated from live market data
 - **Multi-Indicator Analysis**: Weighted composite scoring system for more reliable signals
 - **Smart Caching**: In-memory caching to respect API rate limits and improve response times
-- **40+ Cryptocurrencies**: Pre-mapped support for major cryptocurrencies
+- **39 Cryptocurrencies**: Pre-mapped support for major cryptocurrencies (BTC, ETH, SOL, and more)
 - **Interactive Docs**: Auto-generated Swagger UI and ReDoc documentation
 - **Type Safety**: Full type hints with Pydantic validation
 - **Docker Ready**: Multi-stage Dockerfile for production deployment
